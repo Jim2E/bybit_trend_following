@@ -1,1 +1,2 @@
-# bybit_trend_following
+# Trend Following Strategy
+
